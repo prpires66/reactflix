@@ -1,0 +1,11 @@
+CSSs que o Mario copia magicamente durante a aula
+https://gist.github.com/omariosouto/19dafd5ca155c46b3dcb31df89cfba55
+
+VSCode Styled Coponents - melhora sintaxe do CSS in JS
+https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
+
+Figma - Ferramenta free para design
+https://www.figma.com/
+
+Marco Bruno - Twitch
+https://twitch.tv/marcobrunodev
