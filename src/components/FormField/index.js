@@ -31,7 +31,7 @@ FormField.defaultProps = {
   onChange: () => {},
 };
 
-FormField.prototype = {
+FormField.propTypes = {
   label: Proptypes.string.isRequired,
   type: Proptypes.string,
   name: Proptypes.string.isRequired,
