@@ -51,5 +51,4 @@ function Home() {
     </PageDefault>
   );
 }
-
 export default Home;
